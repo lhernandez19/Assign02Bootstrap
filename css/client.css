@@ -1,0 +1,18 @@
+body {
+	font-family: "Abril Fatface", cursive;
+}
+
+.discounts {
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px lightgray;
+}
+
+.jumbotron, .discounts {
+    border: 3px solid #cecece;
+}
+
+.toast {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+}
